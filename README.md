@@ -12,66 +12,71 @@ created. The results are presented as follows:
 
 ![image](https://github.com/Elfreda2019/Bikesharing/blob/main/Resources/fig1.png)
 Fig 1
-Checkout times for users (riders)
 
+Checkout times for users (riders):
 Using line charts, from Figure 1, we observe a right skewed distribution of trip duration
 (number of riders per minutes) with the most trips completed within five (5) minutes
 (short duration). There are fewer trips completed after an hour to two hours.
 
+
+
+####
+
 ![image](https://github.com/Elfreda2019/Bikesharing/blob/main/Resources/fig2.png)
 Fig 2
-Checkout times for users (riders) by gender
 
+Checkout times for users (riders) by gender:
 Using line charts, from Figure 2, we observe that most male riders completed the trips
 within five (5) minutes followed by their female counterparts. There are more female
 riders who completed their trips after an hour to two hours.
 
 
-![image](https://github.com/Elfreda2019/Bikesharing/blob/main/Resources/fig3.png)
-Fig 3
-Trips by Weekday per hour
+##
 
-Using heat map: from Figure 3, we observe that most trips starts at 5pm and 6pm on
+![image](https://github.com/Elfreda2019/Bikesharing/blob/main/Resources/fig3.png)
+Figure 3
+
+Trips by Weekday per hour:
+Using heat map, from Figure 3, we observe that most trips starts at 5pm and 6pm on
 Thursdays with Mondays to Tuesdays showing some similar pattern of trips at 8am. It is
 observed that quite substantial number of trips starts from 8am on Mondays to
 Thursdays. The volume of trips goes down on all other times and days of the week.
 
-
+##
 
 ![image](https://github.com/Elfreda2019/Bikesharing/blob/main/Resources/fig4.png)
-Fig 4
+Figure 4
 
-Trips by Gender weekday per hour
-
-Using heat map: from Figure 4, we observe that most male riders starts their trips at
+Trips by Gender weekday per hour:
+Using heat map, from Figure 4, we observe that most male riders starts their trips at
 5pm and 6pm on Thusrdays compared to female riders.
+
+##
 
 
 ![image](https://github.com/Elfreda2019/Bikesharing/blob/main/Resources/fig5.png)
-Fig 5
+Figure 5
 
-User trips by Gender by Weekday
-
-Using heat map: From Figure 5, most male subscribers book rides on Thursdays,
+User trips by Gender by Weekday:
+Using heat map, From Figure 5, most male subscribers book rides on Thursdays,
 Fridays, Mondays and Tuesdays in that order.
 
+##
 
 ![image](https://github.com/Elfreda2019/Bikesharing/blob/main/Resources/fig6.png)
-Fig 6
+Figure 6
 
-Top Ending Location
-
-Using standard map: from Figure 6, we observe that most tourist riders ends their trips
+Top Ending Location:
+Using standard map, from Figure 6, we observe that most tourist riders ends their trips
 in the business district of the city.
 
 
-
+## 
 
 ![image](https://github.com/Elfreda2019/Bikesharing/blob/main/Resources/fig7.png)
-Fig 7
+Figure 7
 
-Bike Repairs
-
+Bike Repairs:
 The average trips per bike was calculated as the ratio of number of trips by number of
 unique bikes. The average trips per bike =2,344,224/13,983 = 167.6 trips per bike. We
 calculate 3 standard deviations away from the average of 167.6 and filtered bike Id’s
@@ -81,11 +86,11 @@ maintenance. From Figure 7, we observe that about 70 of those bikes needs repair
 
 ## Summary
 ![image](https://github.com/Elfreda2019/Bikesharing/blob/main/Resources/fig8.png)
-Fig 8
+Figure 8, Dashboard 1
 
 
 ![image](https://github.com/Elfreda2019/Bikesharing/blob/main/Resources/fig9.png)
-Fig 9
+Figure 9, Dashboard 2
 
 Bike-sharing business is a convenient, environmentally friendly way to get around the
 New York City at low cost. In the data, it was revealed that the top starting locations are
