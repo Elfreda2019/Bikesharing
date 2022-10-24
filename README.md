@@ -11,7 +11,7 @@ There were 2,344,224 rides in the city of New York, a new variable check-up time
 created. The results are presented as follows:
 
 ![image](https://github.com/Elfreda2019/Bikesharing/blob/main/Resources/fig1.png)
-Fig 1
+Figure 1
 
 Checkout times for users (riders):
 Using line charts, from Figure 1, we observe a right skewed distribution of trip duration
@@ -23,7 +23,7 @@ Using line charts, from Figure 1, we observe a right skewed distribution of trip
 ####
 
 ![image](https://github.com/Elfreda2019/Bikesharing/blob/main/Resources/fig2.png)
-Fig 2
+Figure 2
 
 Checkout times for users (riders) by gender:
 Using line charts, from Figure 2, we observe that most male riders completed the trips
