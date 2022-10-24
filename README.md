@@ -111,5 +111,8 @@ determination about whether they need to fix a broken bike. Customer experience
 comes with benefits of being a subscriber since the shorter the duration the less one
 pays.
 
+[link to dashboard 1](https://public.tableau.com/authoring/Module14Challenge_16665702015290/NYCCitiDashboard1#1)
+
+[link to dashboard 2](https://public.tableau.com/authoring/Module14Challenge_16665702015290/NYCCitiDashboard2#1)
 
 
