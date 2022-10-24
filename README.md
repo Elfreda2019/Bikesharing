@@ -10,7 +10,7 @@ business, using New York bike sharing data in the month of August 2019.
 There were 2,344,224 rides in the city of New York, a new variable check-up times was
 created. The results are presented as follows:
 
-![image]()
+![image](https://github.com/Elfreda2019/Bikesharing/blob/main/Resources/fig1.png)
 Fig 1
 Checkout times for users (riders)
 
@@ -18,7 +18,7 @@ Using line charts, from Figure 1, we observe a right skewed distribution of trip
 (number of riders per minutes) with the most trips completed within five (5) minutes
 (short duration). There are fewer trips completed after an hour to two hours.
 
-![image]()
+![image](https://github.com/Elfreda2019/Bikesharing/blob/main/Resources/fig2.png)
 Fig 2
 Checkout times for users (riders) by gender
 
@@ -27,7 +27,7 @@ within five (5) minutes followed by their female counterparts. There are more fe
 riders who completed their trips after an hour to two hours.
 
 
-![image]()
+![image](https://github.com/Elfreda2019/Bikesharing/blob/main/Resources/fig3.png)
 Fig 3
 Trips by Weekday per hour
 
@@ -38,7 +38,7 @@ Thursdays. The volume of trips goes down on all other times and days of the week
 
 
 
-![image]()
+![image](https://github.com/Elfreda2019/Bikesharing/blob/main/Resources/fig4.png)
 Fig 4
 
 Trips by Gender weekday per hour
@@ -47,7 +47,7 @@ Using heat map: from Figure 4, we observe that most male riders starts their tri
 5pm and 6pm on Thusrdays compared to female riders.
 
 
-![image]()
+![image](https://github.com/Elfreda2019/Bikesharing/blob/main/Resources/fig5.png)
 Fig 5
 
 User trips by Gender by Weekday
@@ -56,7 +56,7 @@ Using heat map: From Figure 5, most male subscribers book rides on Thursdays,
 Fridays, Mondays and Tuesdays in that order.
 
 
-![image]()
+![image](https://github.com/Elfreda2019/Bikesharing/blob/main/Resources/fig6.png)
 Fig 6
 
 Top Ending Location
@@ -67,7 +67,7 @@ in the business district of the city.
 
 
 
-![image]()
+![image](https://github.com/Elfreda2019/Bikesharing/blob/main/Resources/fig7.png)
 Fig 7
 
 Bike Repairs
@@ -80,11 +80,11 @@ maintenance. From Figure 7, we observe that about 70 of those bikes needs repair
 
 
 ## Summary
-![image]()
+![image](https://github.com/Elfreda2019/Bikesharing/blob/main/Resources/fig8.png)
 Fig 8
 
 
-![image]()
+![image](https://github.com/Elfreda2019/Bikesharing/blob/main/Resources/fig9.png)
 Fig 9
 
 Bike-sharing business is a convenient, environmentally friendly way to get around the
