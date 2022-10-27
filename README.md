@@ -86,11 +86,11 @@ maintenance. From Figure 7, we observe that about 70 of those bikes needs repair
 
 ## Summary
 ![image](https://github.com/Elfreda2019/Bikesharing/blob/main/Resources/fig8.png)
-Figure 8, Dashboard 1
+Figure 8, Story 1
 
 
 ![image](https://github.com/Elfreda2019/Bikesharing/blob/main/Resources/fig9.png)
-Figure 9, Dashboard 2
+Figure 9, Story 2
 
 Bike-sharing business is a convenient, environmentally friendly way to get around the
 New York City at low cost. In the data, it was revealed that the top starting locations are
